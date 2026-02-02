@@ -1,6 +1,6 @@
 #fdiv {
 
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 20px;
     text-align: center;
 
@@ -10,19 +10,38 @@
     margin-left: auto;
     margin-right: auto;
 
-
+    display:    flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 
 
 
 }
-
-
 
 #h1 {
 
 
-    color: blueviolet;
+    color: rgb(3, 0, 209);
 
 
 
 }
+
+
+#x {
+
+    background-color: bisque;
+    border: 1px rgb(53, 28, 28) solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    width: 135px;
+
+    margin-left: 200px;
+    
+
+
+
+}
+
